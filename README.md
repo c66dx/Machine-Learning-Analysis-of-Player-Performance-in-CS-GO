@@ -70,3 +70,13 @@ Este proyecto aplica técnicas de **Machine Learning** al videojuego **Counter-S
 ## 👤 Autores
 
 Proyecto desarrollado por @c66dx y @Pillaulo como parte de un estudio de Machine Learning aplicado a eSports.
+
+**Catalina Barria Otto**
+- GitHub: [@c66dx](https://github.com/c66dx)
+- LinkedIn: [Catalina Barria Otto](https://www.linkedin.com/in/catalinabarriaotto/)
+- Email: cata.barria@gmail.com
+
+**Paulo Vicencio Tello**
+- GitHub: [@Pillaulo](https://github.com/Pillaulo)
+- LinkedIn: [Paulo Vicencio Tello](https://www.linkedin.com/in/paulo-vicencio-tello-261320306/)
+- Email: paulocevite@gmail.com
